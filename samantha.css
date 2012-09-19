@@ -1,0 +1,21 @@
+h1 
+{
+color:#2A0671; 
+font-style: italic; 
+font-weight: bold;
+}
+h2 {color:#4711AE}
+body
+{
+background-color:#906CD7;
+font-size: 18pt;
+font-family: cursive;
+}
+div {background-color:white;}
+img
+{
+float: right;
+border-style:solid;
+margin: 15px;
+width: 200px;
+}
