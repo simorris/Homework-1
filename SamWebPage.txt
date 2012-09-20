@@ -1,0 +1,46 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+<title> About Samantha Morris </title>
+<style type="text/css">
+h1 {color:#2A0671}
+h2 {color:#4711AE}
+body
+{
+background-color:#906CD7;
+}
+img
+{
+float:right;
+border-style:solid;
+margin: 0px 0px 15px 15px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="wrap">
+	<div id="header">
+		<h1 class="title"> About Samantha Morris </h1>
+	</div>
+
+<div id="nav">
+<ul>
+<li> <a href="./index.html"> Home </a> </li>
+<li> <a href="./resume.html"> Resume </a> </li>
+</ul>
+</div>
+
+<p>
+<img src=flow_lion.jpg" width95" height="84" />
+My Name is Samantha Morris.  I am a senior at the University of Iowa, studying Management Information
+Systems and Management at the Tippie College of Business.
+</p>
+
+</div>
+</body>
+</html>

@@ -5,6 +5,7 @@ font-style: italic;
 font-weight: bold;
 }
 h2 {color:#4711AE}
+h3 {font-weight:bold;}
 body
 {
 background-color:#906CD7;
@@ -15,7 +16,10 @@ div {background-color:white;}
 img
 {
 float: right;
+border: 2px;
 border-style:solid;
-margin: 15px;
-width: 200px;
+width: 220px;
+padding: 10px;
+margin-right:0px;
+margin-left: 10px;
 }
